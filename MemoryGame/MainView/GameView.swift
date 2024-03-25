@@ -10,6 +10,7 @@ import SwiftUI
 struct GameView: View {
     
     @EnvironmentObject var gameViewModel: GameViewModel
+    let columns: [GridItem] = Array(repeating: .init(.flexible()), count: 3)
     
     var body: some View {
         

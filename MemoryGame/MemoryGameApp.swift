@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct MemoryGameApp: App {
+    
+    @StateObject var gameViewModel = GameViewModel()
+    
     var body: some Scene {
         WindowGroup {
             GameView()
+                .environmentObject(gameViewModel)
         }
     }
 }
