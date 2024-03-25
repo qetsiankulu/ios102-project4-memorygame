@@ -43,6 +43,7 @@ The following **additional** features are implemented:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3e235e028d3c481e9daa66870688630c-with-play.gif">
     </a>
   </div>
+  
 ## Notes
 
 Definitely reached a new level in my iOS skills. This project almost broke me, but it made me reach out of my comfortable and also made a friend in the class. 
