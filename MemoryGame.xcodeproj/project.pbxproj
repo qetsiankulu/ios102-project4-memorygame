@@ -56,9 +56,9 @@
 		631C063A2BB0BFD900AA6EDF /* Subviews */ = {
 			isa = PBXGroup;
 			children = (
-				63E7221C2BACC89600DBA143 /* CardView.swift */,
 				635EF47E2BB0F42400176B40 /* HeaderButton.swift */,
 				635EF4802BB0F69B00176B40 /* GameHeader.swift */,
+				63E7221C2BACC89600DBA143 /* CardView.swift */,
 				635EF4822BB0FBE800176B40 /* CardGrid.swift */,
 			);
 			path = Subviews;

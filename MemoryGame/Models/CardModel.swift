@@ -9,6 +9,6 @@ import Foundation
 
 struct Card {
     var emoji: String
-    var isFaceDown: Bool = true 
+    var isFaceUp: Bool = false
     var isMatched: Bool = false
 }

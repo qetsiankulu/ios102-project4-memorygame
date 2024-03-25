@@ -29,11 +29,12 @@ struct GameHeader: View {
             Spacer()
             
             // Use the GameButton() to create the reset button and pass the GameViewModel's startGame method as the button's action
-            HeaderButton(title: "Reset Game", backgroundColor: .green) {
+            HeaderButton(title: "Reset Game", backgroundColor: .indigo) {
                 GameViewModel.startGame(cardCount: GameViewModel.cardCount)
             }
         }
         .padding()
+        .background(.cyan)
     }
 }
 
