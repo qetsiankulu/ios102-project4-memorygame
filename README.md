@@ -2,9 +2,9 @@
 
 Submitted by: **Qetsia Nulu**
 
-**MemoryGame** is an app that allows uses to play a simple memory game where they havee to find all the matching cards displayed. 
+**MemoryGame** is an app that allows uses to play a simple memory game where they have to flip the cards over and find all the matching cards.  
 
-Time spent: **30+** hours spent in total
+Time spent: **35+** hours spent in total
 
 ## Required Features
 
@@ -38,19 +38,18 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/3e235e028d3c481e9daa66870688630c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3e235e028d3c481e9daa66870688630c-with-play.gif">
+    </a>
+  </div>
 ## Notes
 
-Describe any challenges encountered while building the app.
+Definitely reached a new level in my iOS skills. This project almost broke me, but it made me reach out of my comfortable and also made a friend in the class. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Qetsia Nkulu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
